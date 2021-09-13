@@ -2,7 +2,7 @@
 Hi, I’m @JaryJay!
 </p>
 <p>
-I’m interested in making games and apps for Windows, Linux, and maybe Android.
+I’m interested in making games and apps for Windows, Linux, and maybe Android (and perhaps Mac).
 </p>
 <p>
 I'm currently working on a game called Nomad Realms.
