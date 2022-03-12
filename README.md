@@ -3,7 +3,7 @@ Hi, I’m @JaryJay!
 </p>
 <p>
 I’m interested in making games and apps for Windows, Linux, and maybe Android (and perhaps Mac).
-I use Java, but I also have a little bit of experience with C++ and Python.
+I use Java, but I also have a little bit of experience with C++, Python, and Kotlin.
 </p>
 <p>
 I'm currently working on a game called Nomad Realms.
