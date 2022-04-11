@@ -6,7 +6,7 @@ I’m interested in making games and apps for Windows, Linux, and maybe Android 
 I use Java, but I also have a little bit of experience with C++, Python, and Kotlin.
 </p>
 <p>
-I'm currently working on a game called Nomad Realms.
+I'm currently working on a game called Nomad Realms. It's built with our very own game engine, made with OpenGL, Java (to be more specific, it uses LWJGL's bindings of OpenGL).
 </p>
 <p>
 Some of its cool features include the following:
