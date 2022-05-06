@@ -22,10 +22,15 @@ I've also made devlogs📸 documenting the process!! See my Youtube channel [her
 
 ## Check out my cool repositories!
 
-1. [jaryjay-sharnon](../../../jaryjay-sharnon)
-2. [cellular-automata](../../../cellular-automata)
-3. [ClothSimulation](../../../ClothSimulation)
-4. [BoxHead](../../../BoxHead)
+1. [se-project](../../../se-project) (a skribbl.io clone made in Processing)
+1. [jaryjay-sharnon](../../../jaryjay-sharnon) (a command-line tool for tabletop role playing games)
+2. [cellular-automata](../../../cellular-automata) (a plant growth simulation made in Processing)
+3. [ClothSimulation](../../../ClothSimulation) (a super clean cloth simulation made in Processing)
+4. [BoxHead](../../../BoxHead) (a 2d top-down zombie shooter with pathfinding, made in -- you guessed it, Processing)
+
+(The nomad realms repository is private, so there's no link to that)
+
+(The game engine is also private, but I *might* make it public in the future🤞)
 
 ---
 
