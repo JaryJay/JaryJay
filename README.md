@@ -6,7 +6,7 @@ I use Java 💻, but I also have a little bit of experience with C++, Python, an
 ---
 ## Nomad Realms
 
-I'm currently working on a game called Nomad Realms ⚔️. It's built with our very own game engine🎉, made with OpenGL and Java (to be more specific, it uses LWJGL's bindings of OpenGL).
+I'm currently working on a game called Nomad Realms ⚔️. It's built with our very own game engine🎉, made with OpenGL and Java. It uses OpenGL through [LWJGL](https://www.lwjgl.org/)'s bindings.
 
 Some of its cool✨ features include the following:
   
@@ -23,7 +23,7 @@ I've also made devlogs📸 documenting the process!! See my Youtube channel [her
 ## Check out my cool repositories!
 
 1. [se-project](../../../se-project) (a skribbl.io clone made in Processing)
-1. [jaryjay-sharnon](../../../jaryjay-sharnon) (a command-line tool for tabletop role playing games)
+1. [jaryjay-sharnon](../../../jaryjay-sharnon) (a command-line tool for managing tabletop role playing games)
 2. [cellular-automata](../../../cellular-automata) (a plant growth simulation made in Processing)
 3. [ClothSimulation](../../../ClothSimulation) (a super clean cloth simulation made in Processing)
 4. [BoxHead](../../../BoxHead) (a 2d top-down zombie shooter with pathfinding, made in -- you guessed it, Processing)
