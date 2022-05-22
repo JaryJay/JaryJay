@@ -22,12 +22,12 @@ I've also made devlogs📸 documenting the process!! See my Youtube channel [her
 
 ## Check out my cool repositories!
 
-1. [hermitrade](https://github.com/Dissonant101/hermitrade) (an ethereum-based second-hand electronics marketplace made with React and Solidity)
-2. [se-project](../../../se-project) (a skribbl.io clone made in Processing)
-3. [jaryjay-sharnon](../../../jaryjay-sharnon) (a command-line tool for managing tabletop role playing games)
-4. [cellular-automata](../../../cellular-automata) (a plant growth simulation made in Processing)
-5. [ClothSimulation](../../../ClothSimulation) (a super clean cloth simulation made in Processing)
-6. [BoxHead](../../../BoxHead) (a 2d top-down zombie shooter with pathfinding, made in -- you guessed it, Processing)
+1. [hermitrade](https://github.com/Dissonant101/hermitrade), an ethereum-based second-hand electronics marketplace made with React and Solidity. This project, which I worked on with 3 other cool people, was made for JamHacks 2022
+2. [se-project](../../../se-project), a skribbl.io clone made in Processing that uses TCP
+3. [jaryjay-sharnon](../../../jaryjay-sharnon), a command-line tool for managing tabletop role playing games, made in plain Java
+4. [cellular-automata](../../../cellular-automata), a plant growth simulation made in Processing
+5. [ClothSimulation](../../../ClothSimulation), a super clean cloth simulation made in Processing
+6. [BoxHead](../../../BoxHead), a 2d top-down zombie shooter with pathfinding, made in -- you guessed it, Processing!
 
 (The nomad realms repository is private, so there's no link to that)
 
