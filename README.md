@@ -40,3 +40,7 @@ The below repositories are listed in descending order of greatness:
 ## Contact methods
 
 You can reach me on Gmail (jay.jrjren@gmail.com), Discord (JaryJay#8185), and LinkedIn (https://www.linkedin.com/in/jay-yuan-ren-107892211/). I prefer Discord.
+
+---
+
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaryJay&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
