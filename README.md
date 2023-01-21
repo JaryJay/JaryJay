@@ -4,36 +4,33 @@ I’m interested in making games 🎮, apps 📊, and websites 🌐.
 I use Java ☕, Javascript, React, and Vue, but I also have a little bit of experience with C++, Python, and Kotlin.
 
 ---
-## Nomad Realms
+## Nomad Realms Expeditions
 
-I'm currently working on a game called Nomad Realms. It's built with our very own game engine🎉, made with OpenGL and Java. It uses OpenGL through [LWJGL](https://www.lwjgl.org/)'s bindings.
+I'm currently working on a game called Nomad Realms Expeditions. It's built with Godot 4.0!
+
+[nomad-realms-expeditions](https://github.com/virtual-cardboard/nomad-realms-expeditions)
 
 Some of its cool✨ features include the following:
   
-- Peer-to-peer networking⚡
-- Infinite world, procedural generation🌳 using OpenSimplexNoise
+- Cool 3D low-poly style
+- Procedurally generated world🌳 using noise
 - Complex card mechanics🃏 represented using abstract syntax trees
 - ~~bad~~ NPC AI 🧙‍♂️
-- Particles!🎉
-
-I've also made devlogs📸 documenting the process!! See my Youtube channel [here](https://www.youtube.com/channel/UCodzqwvceoV2e9a_Nh8Zu1g).
+- Smoooooth camera movement
 
 ---
 
 ## Check out my cool repositories!
 The below repositories are listed in descending order of greatness:
 
+1. [nengen](https://github.com/virtual-cardboard/nengen), a Java game engine built with LWJGL that supports p2p networking!
 1. [hermitrade](https://github.com/Dissonant101/hermitrade), an **ethereum-based** second-hand electronics marketplace made with **React**, **Typescript** and **Solidity**. This project, which I worked on with 3 other cool people, was made for JamHacks 2022, and it won **2 prizes**🏆!
-2. [se-project](../../../se-project), a **skribbl.io clone** made in Processing that uses TCP sockets. I made it for my computer science assignment in grade 11.
-3. [derealizer](https://github.com/virtual-cardboard/derealizer), a java **serialization** library built for our **LWJGL game engine**. I also made a **Vue webapp** built with TailwindCSS 🍃 for generating serializable Java classes.
-4. [jaryjay-sharnon](../../../jaryjay-sharnon), a command-line tool for managing **tabletop role playing games**, made in plain Java
-5. [cellular-automata](../../../cellular-automata), a **plant growth** simulation made in Processing
-6. [ClothSimulation](../../../ClothSimulation), a super satisfying cloth simulation made in Processing
-7. [BoxHead](../../../BoxHead), a 2d top-down zombie shooter with **pathfinding**, made in -- you guessed it, Processing!
-
-(The nomad realms repository is private, so there's no link to that)
-
-(The game engine is also private, but I *might* make it public in the future🤞)
+1. [se-project](../../../se-project), a **skribbl.io clone** made in Processing that uses TCP sockets. I made it for my computer science assignment in grade 11.
+1. [derealizer](https://github.com/virtual-cardboard/derealizer), a java **serialization** library built for our **LWJGL game engine**. I also made a **Vue webapp** built with TailwindCSS 🍃 for generating serializable Java classes.
+1. [jaryjay-sharnon](../../../jaryjay-sharnon), a command-line tool for managing **tabletop role playing games**, made in plain Java
+1. [cellular-automata](../../../cellular-automata), a **plant growth** simulation made in Processing
+1. [ClothSimulation](../../../ClothSimulation), a super satisfying cloth simulation made in Processing
+1. [BoxHead](../../../BoxHead), a 2d top-down zombie shooter with **pathfinding**, made in -- you guessed it, Processing!
 
 ---
 
