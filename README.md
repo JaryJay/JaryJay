@@ -1,10 +1,10 @@
 # Hi, I’m Jay!
 
-I love developing games 🎮, creating desktop apps 📊, making websites 🌐, and getting lots of green squares in my GitHub contribution graph.
+I love developing games 🎮, creating desktop apps 📊, creating websites 🌐, and getting lots of green squares in my GitHub contribution graph. I'm a CS student at the University of Waterloo.
 
-I am skilled at Godot 🤖, Java ☕, Go, Python, and several JavaScript frameworks, and I also have some experience with C++, Kotlin, Unity, and Unreal Engine.
+I am skilled at Godot 🤖, Java ☕, Go, Python, and several JavaScript frameworks.  I also have some experience with C++, Kotlin, Unity, and Unreal Engine.
 
-Notable JavaScript frameworks/libraries that I've used include React, Vue, Angular, Electron, Jest, Storybook
+Notable JavaScript frameworks/libraries that I've used include React, Next.js, Vue, Angular, Electron, Jest, and Storybook.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=JaryJay&theme=tokyonight&background=45%2C0C3269%2C832D4B&border=0D1117)
 
