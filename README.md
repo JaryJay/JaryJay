@@ -12,7 +12,7 @@ I am skilled at Godot 🤖, Java ☕, Go, Python, and several JavaScript framewo
 
 I'm currently working on a [chess roguelike game](https://github.com/JaryJay/chess-roguelike)!. It's built with Godot 4! It's also open-source, so please take a look :)
 
-https://github.com/user-attachments/assets/793644e1-53ef-47c5-b73c-5c37caa6e59c
+https://github.com/user-attachments/assets/5930ae58-650e-414a-9a91-b714346dfd5b
 
 ## Check out my other cool repositories!
 The below repositories are listed in descending order of greatness:
